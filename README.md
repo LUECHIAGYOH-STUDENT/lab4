@@ -19,6 +19,3 @@ Open the local address printed by Vite. Run `npm run build` to verify the produc
 - **Display movies:** `src/components/Movies.jsx` passes movie data to reusable `MovieItem` components, which render the entries in Bootstrap cards.
 - **Manage movie form state:** `src/pages/Create.jsx` uses React state to manage the movie title, release year, and poster URL. Submitting the form logs the values to the browser console; it does not save them to a server.
 
-## Repository
-
-[github.com/LUECHIAGYOH-STUDENT/lab4](https://github.com/LUECHIAGYOH-STUDENT/lab4)
